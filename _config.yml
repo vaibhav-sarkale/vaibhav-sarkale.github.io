@@ -148,7 +148,6 @@ footer:
       url: "https://github.com/vaibhav-sarkale/"
   since: "2025"
 
-
 # Reading Files
 include:
   - .htaccess
