@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Book Notes"
+title: "Book Summaries"
 collection: books
 permalink: /books/
 classes: wide
