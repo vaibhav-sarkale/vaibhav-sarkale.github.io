@@ -113,30 +113,24 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Vaibhav Sarkale"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Senior Consultant, Project Manager, Artist, Toastmaster and Storyteller!"
+  location         : "Pune, India"
+  email            : "vrsarkale@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "mailto:vrsarkale@gmail.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fab fa-x-twitter"
+      # url: "https://twitter.com/sarkale-vaibhav"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/vaibhav-sarkale"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      # url: "https://linkedin.com/vaibhav-sarkale"
 
 # Site Footer
 footer:
