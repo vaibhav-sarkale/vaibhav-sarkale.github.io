@@ -215,6 +215,19 @@ kramdown:
   enable_coderay: false
 
 
+#collections
+collections:
+  ai:
+    output: true
+    permalink: /ai/:title/
+  toastmasters:
+    output: true
+    permalink: /toastmasters/:title/
+  books:
+    output: true
+    permalink: /books/:title
+
+
 # Sass/SCSS
 sass:
   sass_dir: _sass
