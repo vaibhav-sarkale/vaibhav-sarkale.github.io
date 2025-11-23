@@ -130,14 +130,11 @@ author:
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
-      # url: "https://linkedin.com/vaibhav-sarkale"
+      url: "https://linkedin.com/vaibhav-sarkale"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/vaibhav-sarkale"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
-
+      url: "https://github.com/vaibhav-sarkale"
+    
 # Site Footer
 footer:
   links:
