@@ -122,7 +122,7 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:vrsarkale@gmail.com"
-    - label: "(X) Twitter"
+    - label: "Twitter"
       icon: "fab fa-x-twitter"
       url: "https://twitter.com/sarkale-vaibhav"
     - label: "Linkedin"
