@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "AI Portfolio"
+title: "My AI Portfolio"
 collection: ai
 permalink: /ai/
 classes: wide
