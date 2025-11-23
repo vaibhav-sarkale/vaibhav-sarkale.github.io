@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Toastmasters"
+title: "My Toastmasters Life"
 collection: toastmasters
 permalink: /toastmasters/
 classes: wide
