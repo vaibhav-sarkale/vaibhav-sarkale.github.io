@@ -5,8 +5,8 @@ collection: toastmasters
 permalink: /toastmasters/
 classes: wide
 ---
-## What is Toastmasters International?
-Toastmasters International is the leading nonprofit organization devoted to creating effective leaders and communicators worldwide. Through its network of 13,000+ member clubs accross the globe, Toastmasters International helps people learn the arts of speaking, listening and thinking — vital skills that promote selfactualization, enhance leadership potential, foster human understanding. 
+## What is Toastmasters International®?
+Toastmasters International® is the leading nonprofit organization devoted to creating effective leaders and communicators worldwide. Through its network of 13,000+ member clubs accross the globe, Toastmasters International helps people learn the arts of speaking, listening and thinking — vital skills that promote selfactualization, enhance leadership potential, foster human understanding. 
 
 Every major city in India now has a active network of multiple Toastmasters clubs.
 
@@ -58,3 +58,7 @@ If you happen to stay nearby or feel like joining, please feel free to hop into 
 
 ## Contact
 For anything related to Toastmasters International, please feel free to reach out to me at tm.vaibhav.sarkale@gmail.com and I'll be happy to help you out :)
+
+## Some Glimpses in my Toastmasters life over the years
+ ![My PTMC Team!](/assets/images/TMPTMC.jpg)
+
