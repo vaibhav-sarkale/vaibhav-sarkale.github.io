@@ -10,10 +10,10 @@ Toastmasters International is the leading nonprofit organization devoted to crea
 
 Every major city in India now has a active network of multiple Toastmasters clubs.
 
-I have been an active Toastmaster over 6 years now.
-
 ## My Toastmasters Philosophy
-I am deeply passionate about communication & public speaking since childhood. I have come to realize it as a powerful life skill in professional and personal life. 
+I am deeply passionate about communication & public speaking since childhood. Over the years, I have come to realize it as a powerful life skill in professional and personal life. 
+
+Thats why, I continue to invest efforts in this space via Toastmasters. I have been an active Toastmaster over 6 years now.
 
 Storytelling and an impactful voice are few of my strength areas. 
 
@@ -21,7 +21,7 @@ I look forward to regular club meetings as a safe space to work with like minded
 1. further strengthen these skills
 2. work on becoming a better project manager
 
-I also look at Toastmasters as a way to keep contributing in the non-profit space through helping people communicate effectively.
+I also see Toastmasters as a way to keep contributing in the non-profit space through helping people communicate effectively.
 
 ## My Speech Topics
 So far, I have given over 40 speeches in various clubs across India and few other countries. My speeches are usually focussed on
