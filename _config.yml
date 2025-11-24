@@ -123,19 +123,19 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:vrsarkale@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "X/Twitter"
-      icon: "fab fa-x-twitter"
-      url: "https://x.com/sarkale_vaibhav"
     - label: "Linkedin"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/vaibhav-sarkale"
+    - label: "Goodreads"
+      icon: "fab fa-goodreads-g"
+      url: "https://www.goodreads.com/vaibhavsarkale"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/vaibhav-sarkale"
-    
+    - label: "X/Twitter"
+      icon: "fab fa-x-twitter"
+      url: "https://x.com/sarkale_vaibhav"
+        
 # Site Footer
 footer:
   links:
