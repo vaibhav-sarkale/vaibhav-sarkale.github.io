@@ -10,14 +10,14 @@ Toastmasters International is the leading nonprofit organization devoted to crea
 
 Every major city in India now has a active network of multiple Toastmasters clubs.
 
-I have been an active Toastmaster since 2017.
+I have been an active Toastmaster over 6 years now.
 
 ## My Toastmasters Philosophy
-I am deeply passionate about communication in general and public speaking in specific, as an area of expertise and realize its power as a powerful life skill in professional and personal life. 
+I am deeply passionate about communication & public speaking since childhood. I have come to realize it as a powerful life skill in professional and personal life. 
 
 Storytelling and an impactful voice are few of my strength areas. 
 
-I look forward to regular club meetings as a symbiotic and safe space to work with like minded people to 
+I look forward to regular club meetings as a safe space to work with like minded people to 
 1. further strengthen these skills
 2. work on becoming a better project manager
 
@@ -36,8 +36,9 @@ So far, I have given over 40 speeches in various clubs across India and few othe
 3. Make new friends!
 
 ## Current Home Club
-I am currently part of Pimpri Toastmasters Club, Pune. The meetings happen every Saturday evenings from 5:30 PM to 7:30 PM IST
-Please feel free to hop into our meetings as a guest, you are most welcome!
+I am currently part of Pimpri Toastmasters Club, Pune. The meetings happen every Saturday evenings from 5:30 PM to 7:30 PM IST.
+
+If you happen to stay nearby or feel like joining, please feel free to hop into our meetings as a guest, you are most welcome!
 
 ## My Toastmasters Certifications status
 1. Leadership Development Pathway - Completed
