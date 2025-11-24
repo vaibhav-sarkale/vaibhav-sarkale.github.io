@@ -10,7 +10,7 @@ Toastmasters International® is the leading nonprofit organization devoted to cr
 
 Every major city in India now has a active network of multiple Toastmasters clubs.
 
-![My PTMC Team!](/assets/images/WordmarkSince1924Color2.png)
+![My PTMC Team!](/assets/images/WordmarkSince1924Color2.png){: width="50%"}
 
 ## My Toastmasters Philosophy
 I am deeply passionate about communication & public speaking since childhood. Over the years, I have come to realize it as a powerful life skill in professional and personal life. 
