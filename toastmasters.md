@@ -36,7 +36,9 @@ So far, I have given over 40 speeches in various clubs across India and few othe
 3. Make new friends!
 
 ## Current Home Club
-I am currently part of Pimpri Toastmasters Club, Pune. The meetings happen every Saturday evenings from 5:30 PM to 7:30 PM IST.
+I am currently part of Pimpri Toastmasters Club, Pune. (Also known as PTMC)
+
+Our meetings happen in person, every Saturday evenings from 5:30 PM to 7:30 PM IST at Pratibha College.Our Club is a part of Area C3, Division C, District 125.
 
 If you happen to stay nearby or feel like joining, please feel free to hop into our meetings as a guest, you are most welcome!
 
