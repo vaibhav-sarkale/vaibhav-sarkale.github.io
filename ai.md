@@ -14,7 +14,7 @@ Deloitte taught me that the correct formula for learning is **Learning = Knowled
 
 So I have organized this page in these three sections.
 
-## Knowledge
+# A] Knowledge
 
 ### Certifications
 - AWS AI Practitioner, Active
@@ -25,7 +25,7 @@ So I have organized this page in these three sections.
 - Generative AI Overview for Project Managers, Project Management Institute (PMI)
 - Data Landscape of GenAI for Project Managers, Project Management Institude (PMI)
 
-## Experiences
+# B]Experience
 
 ### Personal Projects Developed
 This section is work in progress
@@ -33,5 +33,5 @@ This section is work in progress
 ### Firm level activities
 This section is work in progress
 
-## Exposures
+# C]Exposure
 This section is work in progress.
