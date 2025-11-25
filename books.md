@@ -6,7 +6,9 @@ permalink: /books/
 classes: wide
 ---
 
-I read widely, both fiction and non-fiction in multiple languages. But here I am going to focus on professional reading on topics like Communication, Management and technology related literature. These are focussed on investigating specific problems around workplace like how do I become a better communicator, how do we use AI effectively and so on.
+I read widely, both fiction and non-fiction in multiple languages. 
+
+But here I am going to focus on professional reading on topics like Communication, Management and technology related literature. These are focussed on investigating specific problems around workplace like how do I become a better communicator, how do we use AI effectively and so on.
 
 All summaries are my original notes + PDF Decks
 
