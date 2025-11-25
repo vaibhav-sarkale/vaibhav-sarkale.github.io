@@ -5,8 +5,11 @@ collection: books
 permalink: /books/
 classes: wide
 ---
+*‘Reading with me, is not a hobby, its a disease.’* - Theodore Roosevelt
 
-I read widely, both fiction and non-fiction in multiple languages. 
+I am a proud patient of this disease:sweat_smile:
+
+I read widely, both fiction and non-fiction in multiple languages, but management non fiction and biography are my favorite genres.
 
 But here I am going to focus on professional reading on topics like Communication, Management and technology related literature. These are focussed on investigating specific problems around workplace like how do I become a better communicator, how do we use AI effectively and so on.
 
