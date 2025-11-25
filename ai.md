@@ -12,6 +12,24 @@ I created this portfolio to avoid falling in this trap. And also because I drop 
 
 My firm believes learning ≠ knowledge.
 
-Infact the correct formula for learning = Knowledge + Experiences + Exposure
+Infact, the correct formula for learning = Knowledge + Experiences + Exposure
 
 So I have organized this page in these three sections.
+
+## Knowledge
+
+### Certifications
+- AWS AI Practitioner, Active
+
+### Books on AI
+
+## Experiences
+
+### Personal Projects Developed
+This section is work in progress
+
+### Firm level activities
+This section is work in progress
+
+## Exposures
+This section is work in progress
