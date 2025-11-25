@@ -23,6 +23,10 @@ So I have organized this page in these three sections.
 
 ### Books on AI
 
+## Courses Completed on AI
+- Generative AI Overview for Project Managers, Project Management Institute (PMI)
+- Data Landscape of GenAI for Project Managers, Project Management Institude (PMI)
+
 ## Experiences
 
 ### Personal Projects Developed
