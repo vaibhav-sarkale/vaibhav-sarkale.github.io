@@ -32,4 +32,4 @@ This section is work in progress
 This section is work in progress
 
 ## Exposures
-This section is work in progress
+This section is work in progress.
