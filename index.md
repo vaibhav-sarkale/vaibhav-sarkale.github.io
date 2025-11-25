@@ -12,10 +12,10 @@ Hi! I am currently working in the IT Consulting industry with Deloitte Consultin
 ## Why I created this site
 LinkedIn shows my career. I built this site to show my work.
 
-This site is my extended portfolio where I organize what doesn't fit neatly into LinkedIn: my AI Learnings, Toastmasters Journey and Reading notes
+This site is my extended portfolio where I organize what doesn't fit neatly into LinkedIn: :man_technologist: my AI Learnings, :microphone: Toastmasters Journey and :book: Reading notes
 
 All these may look like disconnected tracks, but for me they are simply how I stay curious, learn faster and communicate better. These are the skills I know I'll need as I grow more into strategic roles.
 
-Hope you too find something interesting here :P
+Hope you too find something interesting here :wink:
 
 
