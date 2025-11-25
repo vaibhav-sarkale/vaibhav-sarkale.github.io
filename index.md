@@ -9,13 +9,13 @@ permalink: /
 
 Hi! I am currently working in the IT Consulting industry with Deloitte Consulting in the role of IT Project/Program Manager where I help large clients help transition, stabilize and optimally run packaged ERP driven multi million-dollar IT engagements.
 
-## What this site is about
+## Why I created this site
+LinkedIn shows my career. I built this site to show my work.
+
 This site is my extended portfolio where I organize what doesn't fit neatly into LinkedIn: my AI Learnings, Toastmasters Journey and Reading notes
 
-## Why I created this site
-LinkedIn shows my career.
-I built this site to show my work: the thinking, learning and the experiments that shape my professional identity, in an organized manner that is meaningful for my audience.
+All these may look like disconnected tracks, but for me they are simply how I stay curious, learn faster and communicate better. These are the skills I know I'll need as I grow more into strategic roles.
 
-Hope you find something interesting here :P
+Hope you too find something interesting here :P
 
 
