@@ -10,7 +10,7 @@ We are all in a hoard to learn a thing or two about AI. But few of us are making
 
 I created this portfolio to avoid falling in this trap:smile:.
 
-Deloitte taught me that the correct formula for **Learning = Knowledge + Experiences + Exposure** and not just knowledge itself.
+Deloitte taught me that the correct formula for learning is **Learning = Knowledge + Experiences + Exposure** and not just knowledge itself.
 
 So I have organized this page in these three sections.
 
