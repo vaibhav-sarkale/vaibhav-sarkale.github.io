@@ -14,12 +14,12 @@ All summaries are my original notes + PDF Decks
 
 ## Project Management
 - **How Big Things Get Done** - Prof. Bent Flyvbjerg 
-  *A practical guide on why Projects fail and what to do about it*
+  *A practical guide on why Projects fail and what to do about it*  
   [Ready Summary (PDF)](link)
 
 ## General Management
  - **Crucial Conversations** - Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler 
-  *Strategies for effectively navigating high-stakes, emotionally charged discussions to achieve positive outcomes*
+  *Strategies for effectively navigating high-stakes, emotionally charged discussions to achieve positive outcomes* 
   [Ready Summary (PDF)](link)
 
  - **The Culture Code** - Daniel Coyle 
@@ -35,11 +35,11 @@ All summaries are my original notes + PDF Decks
   [Ready Summary (PDF)](link)
 
  - **Say it Well** - Terry Szuplat   
-  *Provides practical tips for crafting speeches and communications that resonate, persuade, and inspire*  
+  *Provides practical tips for crafting speeches and communications that resonate, persuade, and inspire*   
   [Ready Summary (PDF)](link)
 
  - **Switch** - Chip Heath & Dan Heath 
-  *Explores how to create successful organizational and personal change by understanding the interplay of emotion, logic, and environment*  
+  *Explores how to create successful organizational and personal change by understanding the interplay of emotion, logic, and environment*   
   [Ready Summary (PDF)](link)
 
  - **Coaching for Performance** - John Whitmore  
@@ -53,7 +53,7 @@ All summaries are my original notes + PDF Decks
   [Ready Summary (PDF)](link)
 
 - **IT Savvy** – Peter Weill & Jeanne W. Ross  
-  *Shows how organizations can gain a competitive edge by effectively leveraging information technology for business value*  
+  *Shows how organizations can gain a competitive edge by effectively leveraging information technology for business value*   
   [Ready Summary (PDF)](link)
 
 
