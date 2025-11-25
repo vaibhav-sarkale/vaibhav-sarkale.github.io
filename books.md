@@ -18,7 +18,7 @@ All summaries are my original notes + PDF Decks
 ## Project Management
 - **How Big Things Get Done** - Prof. Bent Flyvbjerg  
   *A practical guide on why Projects fail and what to do about it* 
-  [Ready Summary (LinkedIn Article](https://www.linkedin.com/pulse/how-big-things-get-done-book-summary-vaibhav-sarkale-crs8f/?trackingId=qEizXZxHQqewrs1rJAihFQ%3D%3D)
+  [Ready Summary (LinkedIn Article)](https://www.linkedin.com/pulse/how-big-things-get-done-book-summary-vaibhav-sarkale-crs8f/?trackingId=qEizXZxHQqewrs1rJAihFQ%3D%3D)
 
 ## General Management
  - **Crucial Conversations** - Kerry Patterson, Joseph Grenny, Ron McMillan & Al Switzler 
