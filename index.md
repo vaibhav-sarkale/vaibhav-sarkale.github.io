@@ -1,13 +1,13 @@
 ---
 layout: home
-title: "Welcome"
+title: "Welcome!"
 author_profile: true
 permalink: /
 ---
 
-## Hello! I am Vaibhav Sarkale, Senior IT Consultant and Project Manager
+## Hello :wave: I am Vaibhav Sarkale, Senior IT Consultant and Project Manager
 
-Hi! I am currently working in the IT Consulting industry with Deloitte Consulting in the role of IT Project/Program Manager where I help large clients help transition, stabilize and optimally run packaged ERP driven multi million-dollar IT engagements.
+Hi! I am currently working in the IT Consulting industry with Deloitte Consulting in the role of IT Project/Program Manager. My work helps large clients help optimally run packaged ERP driven multi million-dollar IT engagements and realize value from thier digital transformation investments.
 
 ## Why I created this site
 LinkedIn shows my career. I built this site to show my work.
