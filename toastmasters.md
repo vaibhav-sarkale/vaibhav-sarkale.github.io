@@ -38,9 +38,9 @@ So far, I have given over 40 speeches in various clubs across India and few othe
 3. Make new friends!
 
 ## Current Home Club
-I am currently part of Pimpri Toastmasters Club, Pune. (Also known as PTMC)
+I am currently part of [Pimpri Toastmasters Club[(https://www.toastmasters.org/find-a-club/CB-05965350-Pimpri-Toastmasters-Club), Pune. (Also known as PTMC)
 
-Our meetings happen in person, every Saturday evenings from 5:30 PM to 7:30 PM IST at Pratibha College.Our Club is a part of Area C3, Division C, District 125.
+Our meetings happen **in person**, every Saturday evenings from 5:30 PM to 7:30 PM IST at Pratibha College.Our Club is a part of Area C3, Division C, District 125.
 
 If you happen to stay nearby or feel like joining, please feel free to hop into our meetings as a guest, you are most welcome!
 
@@ -59,7 +59,7 @@ If you happen to stay nearby or feel like joining, please feel free to hop into 
 3. Chief Judge, Silvertongues Club HSC & ISC Contests
 
 ## Contact
-For anything related to Toastmasters International, please feel free to reach out to me at tm.vaibhav.sarkale@gmail.com and I'll be happy to help you out :)
+For anything related to [Toastmasters International](https://www.toastmasters.org/), please feel free to reach out to me at 📧tm.vaibhav.sarkale@gmail.com and I'll be happy to help you out :smile:
 
 ## Some Glimpses in my Toastmasters life over the years
  ![My PTMC Team!](/assets/images/TMPTMC.jpg)
