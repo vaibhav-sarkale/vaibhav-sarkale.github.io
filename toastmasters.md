@@ -46,7 +46,7 @@ If you happen to stay nearby or feel like joining, please feel free to hop into 
 
 ## My Toastmasters Certifications status
 1. Leadership Development Pathway - Completed
-2. Dynamic Leadership - Level 1 Completed
+2. Dynamic Leadership - Level 3 Completed
 3. CC, CL (Pre Pathways, Old Syllabus) - Completed
 
 ## Credit Roles played so far
@@ -57,6 +57,7 @@ If you happen to stay nearby or feel like joining, please feel free to hop into 
 1. Contest Chair, Division C Evaluation Contest 2025, District 125, Oct'25
 2. Member, District 125 PR Team (Jun'24 - May'25)
 3. Chief Judge, Silvertongues Club HSC & ISC Contests
+4. Voting Judge at various Club and Area level contests
 
 ## Contact
 For anything related to [Toastmasters International](https://www.toastmasters.org/), please feel free to reach out to me at 📧tm.vaibhav.sarkale@gmail.com and I'll be happy to help you out :smile:
